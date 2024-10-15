@@ -1,6 +1,6 @@
 # Northwind PowerBI Projesi
 
-Bu proje, Northwind dataseti ile oluşturulmuş powerbi dashboardunun görsellerini ve bazı dax kodlarını içerir.
+Bu proje, Northwind dataseti ile oluşturulmuş powerbi dashboardunun görsellerini ve proje sunum videosunu içerir.
 
 
 ![giris](https://github.com/user-attachments/assets/359ea04d-3792-4e38-8705-616797cde5c0)
