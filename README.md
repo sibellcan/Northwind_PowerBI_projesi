@@ -2,6 +2,7 @@
 
 Bu proje, Northwind dataseti ile oluşturulmuş powerbi dashboardunun görsellerini ve proje sunum videosunu içerir.
 
+Projenin sunum videosunu izlemek için tıklayınız : https://youtu.be/G-cR5ITXe6k?si=w1b5Mcedv1uxaP91 
 
 ![giris](https://github.com/user-attachments/assets/359ea04d-3792-4e38-8705-616797cde5c0)
 
@@ -12,7 +13,6 @@ Bu proje, Northwind dataseti ile oluşturulmuş powerbi dashboardunun görseller
 ![stok_analizi](https://github.com/user-attachments/assets/aa157860-c3b0-4e97-8347-caf2ded42cfa)
 
 ![urun_analizi](https://github.com/user-attachments/assets/72fcc748-d4cd-4240-819c-59e403a49539)
-
 
 
 
